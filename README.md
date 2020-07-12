@@ -29,3 +29,4 @@ Find the full list of projects I've worked on [here.](https://github.com/vashude
 - Or just [say HI !](mailto:dhamavashudev@gmail.com)
 #### ⚡ Fun fact:
 - MIT has computers that can [Detect Fake Smiles.](http://news.mit.edu/2012/smile-detector-0525)
+- Russia Engineered a [Computer That Ran on Water.](https://gizmodo.com/the-russian-computer-that-ran-on-water-5879106)
