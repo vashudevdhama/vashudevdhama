@@ -1,21 +1,21 @@
-## Hi there 👋 I'm Vashudev Dhama!
+### Hi there 👋 I'm Vashudev Dhama!
 
-<!--
-**vashudevdhama/vashudevdhama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <a href="https://www.linkedin.com/in/vashudevdhama">
+  <img align="left" alt="Vashudev Dhama | LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="mailto:dhamavashudev@gmail.com">
+  <img align="left" alt="Vashudev Dhama | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" />
+</a>
+<a href="https://leetcode.com/vashudevdhama">
+  <img align="left" alt="Vashudev Dhama | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+<a href="https://twitter.com/vashudevdhama">
+  <img align="left" alt="Vashudev Dhama | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a> -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## About Me
+### About Me
 I am a final year student at Krishna Institute of Engineering and Technology, Ghaziabad pursuing engineering in Information Technology. I have worked on designing, developing and implementing various software projects using Flutter, Python and Unity3D. I believe in teamwork and with a broad skill set covering important facets in computer software industry, I am looking for exciting opportunities in the same.
+- 📝 [Resume](https://drive.google.com/file/d/1bvCNcOcHbOtiPsSTawXTTJKPp7qNRYbQ/view)
 #### I'm currently learning:
 - [Data Structure and Algorithm](https://github.com/vashudevdhama/DSA#dsa) concepts.
 - How to build for the internet world.
@@ -24,9 +24,28 @@ I am a final year student at Krishna Institute of Engineering and Technology, Gh
 - [Jet Fighting Game](https://github.com/vashudevdhama/Jet_Fighting#jet_fighting) (Unity3D)
 
 Find the full list of projects I've worked on [here.](https://github.com/vashudevdhama?tab=repositories)
-## How to reach me:
+
+**Languages and Tools:**  
+
+
+<!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> -->
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+### How to reach me:
 - Find me on [LinkedIn](https://linkedin.com/in/vashudevdhama)
 - Or just [say HI !](mailto:dhamavashudev@gmail.com)
-#### ⚡ Fun fact:
+#### Fun Fact ⚡:
 - MIT has computers that can [Detect Fake Smiles.](http://news.mit.edu/2012/smile-detector-0525)
 - Russia Engineered a [Computer That Ran on Water.](https://gizmodo.com/the-russian-computer-that-ran-on-water-5879106)
