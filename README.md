@@ -14,7 +14,7 @@
 </a> -->
 
 ### About Me
-I am a final year student at Krishna Institute of Engineering and Technology, Ghaziabad pursuing engineering in Information Technology. I have worked on designing, developing and implementing various software projects using Flutter, Python and Unity3D. I believe in teamwork and with a broad skill set covering important facets in computer software industry, I am looking for exciting opportunities in the same.
+I am a final year student at Krishna Institute of Engineering and Technology, Ghaziabad pursuing engineering in Information Technology. I have worked on designing, developing and implementing various software projects using Flutter, Python and Unity3D.
 - 📝 [Resume](https://drive.google.com/file/d/1bvCNcOcHbOtiPsSTawXTTJKPp7qNRYbQ/view)
 #### I'm currently learning:
 - [Data Structure and Algorithm](https://github.com/vashudevdhama/DSA#dsa) concepts.
