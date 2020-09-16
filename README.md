@@ -14,11 +14,12 @@
 </a> -->
 
 ### About Me
-I am a final year student at Krishna Institute of Engineering and Technology, Ghaziabad pursuing engineering in Information Technology. I have worked on designing, developing and implementing various software projects using Flutter, Python and Unity3D.
-- 📝 [Resume](https://drive.google.com/file/d/1bvCNcOcHbOtiPsSTawXTTJKPp7qNRYbQ/view)
+I am a recent IT graduate. I like to work and have been working on designing, developing and implementing various software projects using Flutter and NodeJS.
+- 📝 [Resume](https://drive.google.com/file/d/1KVsrWJuaB9E7fHZAh9SjZa2-nnewcAra/view?usp=sharing)
 #### I'm currently learning:
-- [Data Structure and Algorithm](https://github.com/vashudevdhama/DSA#dsa) concepts.
-- How to build for the internet world.
+- DevOps concepts.
+- Flutter UI SDK for the frontend.
+- NodeJS for the backend.
 #### Side projects:
 - [Weather App](https://github.com/vashudevdhama/weather_app_flutter#climate_flutter-) (Flutter)
 - [Jet Fighting Game](https://github.com/vashudevdhama/Jet_Fighting#jet_fighting) (Unity3D)
@@ -32,15 +33,15 @@ Find the full list of projects I've worked on [here.](https://github.com/vashude
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> -->
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ### How to reach me:
