@@ -14,7 +14,7 @@
 </a> -->
 
 ### About Me
-I am a recent IT graduate. I like to work and have been working on designing, developing and implementing various software projects using Flutter and NodeJS.
+I am a recent IT graduate. I like to work and have been working on designing, developing and implementing various software projects using MERN stack and sometimes with Flutter and Unity too.
 - 📝 [Resume](https://vashudevdhama.github.io/assets/resume.pdf)
 #### I'm currently learning:
 - MERN stack
