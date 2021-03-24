@@ -14,13 +14,10 @@
 </a> -->
 
 ### About Me
-I am a recent IT graduate. I like to work and have been working on designing, developing and implementing various software projects using MERN stack and sometimes with Flutter and Unity too.
+I am a recent IT graduate and currently working at Capgemini India as Software Engineer. I like to work and have been working on designing, developing and implementing various software projects using MERN stack and sometimes with Flutter and Unity too.
 - 📝 [Resume](https://vashudevdhama.github.io/assets/resume.pdf)
 #### I'm currently learning:
 - MERN stack
-#### Side projects:
-- [Weather App](https://github.com/vashudevdhama/weather_app_flutter#climate_flutter-) (Flutter)
-- [Jet Fighting Game](https://github.com/vashudevdhama/Jet_Fighting#jet_fighting) (Unity3D)
 
 Find the full list of projects I've worked on [here.](https://github.com/vashudevdhama?tab=repositories)
 
