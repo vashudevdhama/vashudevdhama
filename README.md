@@ -15,7 +15,7 @@
 
 ### About Me
 I am a recent IT graduate and currently working at Capgemini India as Software Engineer. I like to work and have been working on designing, developing and implementing various software projects using MERN stack and sometimes with Flutter and Unity too.
-- 📝 [Resume](https://vashudevdhama.github.io/assets/resume.pdf)
+- 📝 [Resume](https://vashudevdhama.github.io/static/media/resume.45c2f66f.pdf)
 #### I'm currently learning:
 - MERN stack
 
