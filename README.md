@@ -13,12 +13,6 @@
   <img align="left" alt="Vashudev Dhama | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> -->
 
-### About Me
-I am a 2020 IT graduate and currently working at Capgemini India as Software Engineer. I like to work and have been working on designing, developing and implementing various software projects using MERN stack and sometimes with Flutter and Unity too.
-- 📝 [Resume](https://vashudev.netlify.app/images/resume.pdf)
-
-Find the full list of projects I've worked on [here.](https://github.com/vashudevdhama?tab=repositories)
-
 **Languages and Tools:**  
 
 
