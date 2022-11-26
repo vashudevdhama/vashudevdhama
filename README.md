@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Vashudev Dhama!
+I'm a Software Engineer, working mostly with JavaScript and related stuff.
 
 <a href="https://www.linkedin.com/in/vashudevdhama">
   <img align="left" alt="Vashudev Dhama | LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -12,6 +13,10 @@
 <a href="https://twitter.com/vashudevdhama">
   <img align="left" alt="Vashudev Dhama | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> -->
+
+
+<br>
+<br>
 
 **Languages and Tools:**  
 
